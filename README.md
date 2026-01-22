@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi, I'm Durga Prasad 👋
 
-<!--
-**D-Durga1728/D-Durga1728** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc Data Analytics student | Graduate Data Analyst  
+📍 Dublin, Ireland  
 
-Here are some ideas to get you started:
+### About Me
+I'm a data analyst with strong skills in SQL, Python, Excel, Power BI, and Tableau.
+I enjoy transforming raw data into meaningful insights that support business decisions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+- SQL (Joins, CTEs, Window Functions)
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- Power BI & Tableau
+- Excel (Advanced functions, Pivot Tables)
+- Statistics & Data Analysis
+
+### Projects
+🔹 Sales Performance Analysis (SQL, Power BI)  
+🔹 Customer Churn Analysis (Python)  
+🔹 Marketing Campaign Analysis (SQL, Excel)  
+
+📫 Connect with me:  
+LinkedIn: https://www.linkedin.com/in/durga-prasad-narsing-155394281/

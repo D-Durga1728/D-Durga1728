@@ -2,7 +2,7 @@
 
 <div align="center">
   <h3>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&color=FF6F00&background=0D1117&center=true&vCenter=true&width=600&lines=Data+Analyst+%F0%9F%93%9A+%7C+Machine+Learning+%F0%9F%A4%96+%7C+SQL+%F0%9F%93%87+%7C+Python+%F0%9F%90%8D"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&color=FF6F00&background=0D1117&center=true&vCenter=true&width=600&lines=Data+Analyst+%F0%9F%93%9A+%7C+Machine+Learning+%F0%9F%A4%96+%7C+Python+%F0%9F%90%8D"/>
   </h3>
 </div>
 
@@ -88,21 +88,14 @@
 
 # 🌟 🔍 Featured Projects
 
-<div align="center">
+### [CardioRisk_ML-Durga](https://github.com/D-Durga1728/CardioRisk_ML-Durga)  
+📊 Predicting cardiovascular risk using machine learning with preprocessing, feature engineering, model training, and evaluation.
 
-<a href="https://github.com/D-Durga1728/CardioRisk_ML-Durga">
-<img src="https://raw.githubusercontent.com/D-Durga1728/CardioRisk_ML-Durga/main/screenshots/cardiovasc_demo.gif" alt="CardioRisk ML" width="300"/>
-</a>
+### [Wine Quality Prediction](https://github.com/D-Durga1728/wine-quality-prediction-r)  
+🍷 Exploratory data analysis and predictive modeling using R. Built classification models to assess wine quality.
 
-<a href="https://github.com/D-Durga1728/wine-quality-prediction-r">
-<img src="https://raw.githubusercontent.com/D-Durga1728/wine-quality-prediction-r/main/screenshots/wine_demo.gif" alt="Wine Quality" width="300"/>
-</a>
-
-<a href="https://github.com/D-Durga1728/flight-price-visualisation">
-<img src="https://raw.githubusercontent.com/D-Durga1728/flight-price-visualisation/main/screenshots/flight_demo.gif" alt="Flight Prices" width="300"/>
-</a>
-
-</div>
+### [Flight Price Visualisation](https://github.com/D-Durga1728/flight-price-visualisation)  
+✈️ Interactive Jupyter Notebook project visualizing flight price trends and patterns using Python.
 
 ---
 

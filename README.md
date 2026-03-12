@@ -95,9 +95,9 @@ Interactive Jupyter Notebook project visualizing flight price trends.
 
 # 🐍 GitHub Contribution Snake
 
-![Snake animation](dist/github-contribution-grid-snake.svg)
+![Snake animation](output/github-contribution-grid-snake.svg)
 
-> ⚠️ Make sure your GitHub Actions workflow generates `dist/github-contribution-grid-snake.svg` automatically.
+> ⚠️ Make sure your GitHub Actions workflow generates `output/github-contribution-grid-snake.svg` automatically.
 
 ---
 

@@ -1,0 +1,43 @@
+name: Deploy GitHub Snake and Stats
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: "0 */12 * * *"  # every 12 hours
+  workflow_dispatch:
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true  # ensures Node.js 24 is used
+
+jobs:
+  generate-snake:
+    runs-on: ubuntu-latest
+    steps:
+      # 1. Checkout repository
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # 2. Setup Node.js 24
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 24
+
+      # 3. Generate GitHub contribution snake
+      - name: Generate Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: D-Durga1728
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+
+      # 4. Deploy snake to gh-pages branch
+      - name: Deploy Snake to GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: gh-pages  # branch to deploy snake
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

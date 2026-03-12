@@ -1,4 +1,4 @@
-name: Deploy Snake & GitHub Pages
+name: Generate Snake & Deploy
 
 on:
   push:
@@ -12,7 +12,7 @@ env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
 jobs:
-  generate-snake:
+  deploy-snake:
     runs-on: ubuntu-latest
 
     steps:
@@ -24,7 +24,7 @@ jobs:
         with:
           node-version: 24
 
-      # 3. Set Git user info
+      # 3. Set Git config
       - name: Set Git config
         run: |
           git config --global user.name "github-actions[bot]"
@@ -34,12 +34,14 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: D-Durga1728
-          outputs: |
-            dist/github-contribution-grid-snake.svg
+          outputs: dist/github-contribution-grid-snake.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # 5. Deploy snake SVG to GitHub Pages or output branch
+      # 5. Deploy snake SVG to output branch
       - uses: crazy-max/ghaction-github-pages@v3
         with:
-          target_branch: output  # or gh-pages if you prefer
+          target_branch: output
           build_dir: dist
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

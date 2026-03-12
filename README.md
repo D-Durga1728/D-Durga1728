@@ -14,10 +14,6 @@ I enjoy transforming raw data into meaningful insights that support business dec
 - Excel (Advanced functions, Pivot Tables)
 - Statistics & Data Analysis
 
-### Projects
-🔹 Sales Performance Analysis (SQL, Power BI)  
-🔹 Customer Churn Analysis (Python)  
-🔹 Marketing Campaign Analysis (SQL, Excel)  
 
 📫 Connect with me:  
 LinkedIn: https://www.linkedin.com/in/durga-prasad-narsing-155394281/

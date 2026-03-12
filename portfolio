@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Durga Prasad Narsing | Data Analytics Portfolio</title>
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg-color: #f5f5f5;
+    --text-color: #333;
+    --primary-color: #0A66C2;
+    --card-bg: #fff;
+    --footer-color: #777;
+  }
+  [data-theme="dark"] {
+    --bg-color: #1e1e1e;
+    --text-color: #f5f5f5;
+    --primary-color: #0A66C2;
+    --card-bg: #2c2c2c;
+    --footer-color: #aaa;
+  }
+
+  body { font-family: 'Roboto', sans-serif; margin:0; padding:0; background:var(--bg-color); color:var(--text-color); transition: background 0.3s, color 0.3s; }
+  header { background:var(--primary-color); color:white; padding:60px 20px; text-align:center; }
+  header h1 { margin:0; font-size:2.5rem; }
+  header p { margin:5px 0; font-size:1.2rem; }
+
+  .toggle-container { text-align:center; margin-top:-30px; }
+  .toggle-btn { cursor:pointer; padding:10px 20px; background:var(--card-bg); border:none; border-radius:20px; box-shadow:0 2px 5px rgba(0,0,0,0.2); transition: background 0.3s; }
+  .toggle-btn:hover { background:#ddd; }
+
+  section { max-width:1000px; margin:40px auto; padding:0 20px; }
+  h2 { color:var(--primary-color); margin-bottom:20px; border-bottom:2px solid var(--primary-color); display:inline-block; padding-bottom:5px; }
+
+  .skills { display:flex; flex-wrap:wrap; justify-content:center; gap:10px; margin-bottom:30px; }
+  .skill { width:200px; margin-bottom:15px; }
+  .skill-name { font-weight:bold; margin-bottom:5px; }
+  .skill-bar { width:100%; background:#ddd; border-radius:10px; overflow:hidden; height:15px; }
+  .skill-fill { height:100%; background:var(--primary-color); width:0%; border-radius:10px; transition:width 1s; }
+
+  .projects { display:flex; flex-wrap:wrap; gap:20px; justify-content:center; }
+  .project-card { background:var(--card-bg); border-radius:8px; padding:15px; flex:1 1 280px; box-shadow:0 2px 10px rgba(0,0,0,0.15); text-align:center; transition:transform 0.3s; }
+  .project-card:hover { transform:translateY(-5px); }
+  .project-card img { max-width:100%; border-radius:5px; margin-bottom:10px; transition: transform 0.3s; }
+  .project-card img:hover { transform: scale(1.05); }
+
+  .certificates { display:flex; flex-wrap:wrap; gap:15px; justify-content:center; }
+  .certificate { background:var(--card-bg); border-radius:8px; padding:10px; flex:1 1 200px; box-shadow:0 2px 10px rgba(0,0,0,0.15); text-align:center; }
+  .certificate img { max-width:100%; height:100px; object-fit:contain; margin-bottom:5px; }
+
+  .contact { text-align:center; margin:30px 0; }
+  .contact a img { margin:5px; vertical-align:middle; }
+
+  footer { text-align:center; padding:20px; font-size:0.9rem; color:var(--footer-color); }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>Durga Prasad Narsing</h1>
+  <p>🎓 Aspiring Data Analyst | MSc Data Analytics, Dublin City University</p>
+  <p>📍 Dublin, Ireland</p>
+  <p>Turning data into actionable insights through Python, SQL, and Machine Learning.</p>
+  <div class="toggle-container">
+    <button class="toggle-btn" onclick="toggleDarkMode()">🌙 Toggle Dark Mode</button>
+  </div>
+</header>
+
+<section>
+  <h2>🛠 Skills & Tech Stack</h2>
+  <div class="skills">
+    <div class="skill"><div class="skill-name">Python</div><div class="skill-bar"><div class="skill-fill" style="width:95%"></div></div></div>
+    <div class="skill"><div class="skill-name">R</div><div class="skill-bar"><div class="skill-fill" style="width:85%"></div></div></div>
+    <div class="skill"><div class="skill-name">SQL</div><div class="skill-bar"><div class="skill-fill" style="width:90%"></div></div></div>
+    <div class="skill"><div class="skill-name">Power BI</div><div class="skill-bar"><div class="skill-fill" style="width:80%"></div></div></div>
+    <div class="skill"><div class="skill-name">Tableau</div><div class="skill-bar"><div class="skill-fill" style="width:80%"></div></div></div>
+    <div class="skill"><div class="skill-name">TensorFlow</div><div class="skill-bar"><div class="skill-fill" style="width:70%"></div></div></div>
+  </div>
+
+  <div align="center">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+    <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=MicrosoftSQLServer&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Scikit%2DLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  </div>
+</section>
+
+<section>
+  <h2>🔍 Featured Projects</h2>
+  <div class="projects">
+    <div class="project-card">
+      <a href="https://github.com/D-Durga1728/CardioRisk_ML-Durga">
+        <img src="https://raw.githubusercontent.com/D-Durga1728/CardioRisk_ML-Durga/main/screenshots/cardiovasc_demo.gif" alt="CardioRisk ML"/>
+        <h3>CardioRisk_ML-Durga</h3>
+      </a>
+      <p>Predicting cardiovascular risk using ML (Logistic Regression, Random Forest, XGBoost). Preprocessing, feature engineering, training, and evaluation.</p>
+    </div>
+
+    <div class="project-card">
+      <a href="https://github.com/D-Durga1728/wine-quality-prediction-r">
+        <img src="https://raw.githubusercontent.com/D-Durga1728/wine-quality-prediction-r/main/screenshots/wine_demo.gif" alt="Wine Quality"/>
+        <h3>Wine Quality Prediction</h3>
+      </a>
+      <p>Exploratory data analysis and predictive modeling using R.</p>
+    </div>
+
+    <div class="project-card">
+      <a href="https://github.com/D-Durga1728/flight-price-visualisation">
+        <img src="https://raw.githubusercontent.com/D-Durga1728/flight-price-visualisation/main/screenshots/flight_demo.gif" alt="Flight Prices"/>
+        <h3>Flight Price Visualisation</h3>
+      </a>
+      <p>Interactive visualization of flight price trends using Jupyter Notebooks.</p>
+    </div>
+  </div>
+</section>
+
+<section>
+  <h2>📜 Certifications</h2>
+  <div class="certificates">
+    <div class="certificate">
+      <img src="certificates/ibm_data_analytics.png" alt="IBM Data Analytics"/>
+      <p>IBM Data Analytics Professional Certificate</p>
+    </div>
+    <div class="certificate">
+      <img src="certificates/powerbi_badge.png" alt="Power BI"/>
+      <p>Power BI Data Analyst Associate</p>
+    </div>
+    <div class="certificate">
+      <img src="certificates/tableau_badge.png" alt="Tableau"/>
+      <p>Tableau Desktop Specialist</p>
+    </div>
+  </div>
+</section>
+
+<section>
+  <h2>📊 GitHub Stats & Top Languages</h2>
+  <div style="display:flex;flex-wrap:wrap;justify-content:center;gap:20px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=D-Durga1728&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D-Durga1728&layout=compact&theme=radical" alt="Top Languages"/>
+  </div>
+</section>
+
+<section>
+  <h2>📫 Connect with Me</h2>
+  <div class="contact">
+    <a href="https://www.linkedin.com/in/durga-prasad-narsing-155394281/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+    <a href="mailto:durgaprasadnarsing1728@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+  </div>
+</section>
+
+<section>
+  <h2>🌱 Currently Learning</h2>
+  <ul>
+    <li>Advanced Machine Learning Techniques (Deep Learning, NLP)</li>
+    <li>Building interactive dashboards with Streamlit</li>
+  </ul>
+</section>
+
+<footer>
+  <p>© 2026 Durga Prasad Narsing | Transforming raw data into meaningful insights through code, analytics, and continuous learning.</p>
+</footer>
+
+<script>
+  // Dark mode toggle
+  function toggleDarkMode() {
+    document.body.dataset.theme = document.body.dataset.theme === "dark" ? "light" : "dark";
+  }
+
+  // Animate skill bars
+  window.addEventListener('load', () => {
+    const fills = document.querySelectorAll('.skill-fill');
+    fills.forEach(fill => {
+      const width = fill.style.width;
+      fill.style.width = '0%';
+      setTimeout(() => fill.style.width = width, 100);
+    });
+  });
+</script>
+
+</body>
+</html>

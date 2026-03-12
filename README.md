@@ -66,9 +66,6 @@ Interactive Jupyter Notebook project visualizing flight price trends and pattern
   <a href="https://www.linkedin.com/in/durga-prasad-narsing-155394281/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="durgaprasadnarsing1728@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
 </div>
 
 *LinkedIn profile: MSc Data Analytics student with focus on data visualization, predictive analytics, and data storytelling.* 

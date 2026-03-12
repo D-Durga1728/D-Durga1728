@@ -99,10 +99,8 @@ Interactive Jupyter Notebook project visualizing flight price trends.
 # 📊 GitHub Stats
 
 ![Durga's GitHub Stats](https://github-readme-stats.vercel.app/api?username=D-Durga1728&show_icons=true&theme=radical&count_private=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=D-Durga1728&layout=compact&theme=radical)
 
----
 
 # 📫 Connect With Me
 

@@ -1,94 +1,176 @@
 # Hi, I’m Durga Prasad 👋
 
 🎓 **Aspiring Data Analyst | MSc Data Analytics, Dublin City University**  
-📍 Dublin, Ireland 
-- **Turning data into actionable insights through Python, SQL, and Machine Learning.**
+📍 Dublin, Ireland  
+**Turning data into actionable insights through Python, SQL, and Machine Learning.**
 
 ---
 
-## 🛠 Skills
+# 🛠 Skills
 
 ## 💻 Tech Stack
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=MicrosoftSQLServer&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit%2DLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+<a href="https://www.python.org/">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</a>
+
+<a href="https://www.r-project.org/">
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+</a>
+
+<a href="https://www.javascript.com/">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</a>
+
+<a href="https://www.java.com/">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+</a>
+
+<a href="https://scikit-learn.org/">
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+</a>
+
+<a href="https://www.tensorflow.org/">
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+</a>
+
+<a href="https://xgboost.ai/">
+<img src="https://img.shields.io/badge/XGBoost-AA0000?style=for-the-badge"/>
+</a>
+
+<a href="https://opencv.org/">
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+</a>
+
+<a href="https://pandas.pydata.org/">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+</a>
+
+<a href="https://numpy.org/">
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+</a>
+
+<a href="https://spark.apache.org/">
+<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+</a>
+
+<a href="https://powerbi.microsoft.com/">
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+</a>
+
+<a href="https://www.tableau.com/">
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+</a>
+
+<a href="https://aws.amazon.com/">
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</a>
+
+<a href="https://azure.microsoft.com/">
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+</a>
+
+<a href="https://www.docker.com/">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</a>
+
+<a href="https://react.dev/">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+</a>
+
+<a href="https://www.djangoproject.com/">
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+</a>
+
+<a href="https://www.mysql.com/">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</a>
+
+<a href="https://www.postgresql.org/">
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</a>
+
+<a href="https://www.mongodb.com/">
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</a>
+
 </div>
 
-- **Programming & Analytics:** Python, R, SQL, Power BI, Tableau  
-- **Machine Learning & AI:** Scikit-learn, TensorFlow, Pandas, NumPy  
-- **Data Visualization:** Matplotlib, Seaborn, Plotly, Tableau  
-- **Web & Deployment:** Django, Flask, Git, GitHub  
+---
+
+# 📌 Highlights
+
+- Built **CardioRisk ML pipeline** with automated preprocessing, model evaluation, and cross-validation.
+- Developed **end-to-end machine learning workflows** using Jupyter, Scikit-Learn, and XGBoost.
+- Created **interactive data visualizations and dashboards** using Power BI and Tableau.
+- Experience with **data processing pipelines using Pandas and Spark**.
+- Hands-on experience deploying **machine learning models and analytics solutions**.
+- Continuously improving skills through certifications and real-world analytics projects.
 
 ---
 
-## 🔍 Featured Projects
+# 🔍 Featured Projects
 
 ### [CardioRisk_ML-Durga](https://github.com/D-Durga1728/CardioRisk_ML-Durga)
-Predicting cardiovascular risk using machine learning. Includes preprocessing, feature engineering, model training (Logistic Regression, Random Forest, XGBoost), and evaluation.
+Predicting cardiovascular risk using machine learning with preprocessing, feature engineering, model training, and evaluation.
 
 ### [Wine Quality Prediction](https://github.com/D-Durga1728/wine-quality-prediction-r)
-Analyzed wine quality data using R, performed exploratory data analysis, and built predictive models to classify wine quality.
+Exploratory data analysis and predictive modeling using R.
 
 ### [Flight Price Visualisation](https://github.com/D-Durga1728/flight-price-visualisation)
-Interactive Jupyter Notebook project visualizing flight price trends and patterns.
+Interactive Jupyter Notebook project visualizing flight price trends.
 
 ---
 
-## 📜 Certifications
+# 📜 Certifications
 
-> Add your certificates here with badge images or links (e.g., Coursera, Udemy, IBM SkillsBuild, Microsoft, AWS)
-
-- **IBM Data Analytics Professional Certificate** – *(example)*  
-- **Power BI Data Analyst Associate** – *(example)*  
-- **Tableau Desktop Specialist** – *(example)*  
-
-*(You can include links to certificates from Credly, Coursera, or LinkedIn here.)*
+- IBM Data Analytics Professional Certificate  
+- Power BI Data Analyst Associate  
+- Tableau Desktop Specialist  
 
 ---
 
-## 📊 GitHub Stats  & Top Languages
+# 📊 GitHub Stats
 
 ![Durga's GitHub Stats](https://github-readme-stats.vercel.app/api?username=D-Durga1728&show_icons=true&theme=radical&count_private=true)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=D-Durga1728&layout=compact&theme=radical)
 
 ---
 
-
-## 📫 Connect with Me
+# 📫 Connect With Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/durga-prasad-narsing-155394281/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+
+<a href="https://www.linkedin.com/in/durga-prasad-narsing-155394281/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:durgaprasadnarsing1728@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </div>
 
-*LinkedIn profile: MSc Data Analytics student with focus on data visualization, predictive analytics, and data storytelling.* 
+---
+
+# 📫 Contact Me
+
+- **LinkedIn:** [Durga Prasad Narsing](https://www.linkedin.com/in/durga-prasad-narsing-155394281/)  
+- **Email:** [durgaprasadnarsing1728@gmail.com](mailto:durgaprasadnarsing1728@gmail.com)
 
 ---
 
-## 📫 Contact Me
-
-- **LinkedIn:** [[Durga Prasad Narsing](https://www.linkedin.com/in/durga-prasad-narsing-155394281/) ]
-- **Email:**  durgaprasadnarsing1728@gmail.com
-
-
----
-
-## 🌱 Currently Learning
+# 🌱 Currently Learning
 
 - Advanced Machine Learning Techniques (Deep Learning, NLP)  
-- 
 - Building interactive dashboards with Streamlit  
 
 ---
 
-*“Data speaks — I make it understandable and useful.”*
- *Transforming raw data into meaningful insights through code, analytics, and continuous learning.*
+*“Data speaks — I make it understandable and useful.”*  
+*Transforming raw data into meaningful insights through analytics, machine learning, and continuous learning.*
 
 ---

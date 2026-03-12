@@ -1,4 +1,10 @@
-# Hi, I’m Durga Prasad 👋
+# <img src="https://img.shields.io/badge/Hi-👋-brightgreen?style=flat-square" /> I'm Durga Prasad  
+
+<div align="center">
+  <h3>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&color=FF6F00&background=0D1117&center=true&vCenter=true&width=600&lines=Data+Analyst+%F0%9F%93%9A+%7C+Machine+Learning+%F0%9F%A4%96+%7C+SQL+%F0%9F%93%87+%7C+Python+%F0%9F%90%8D"/>
+  </h3>
+</div>
 
 🎓 **Aspiring Data Analyst | MSc Data Analytics, Dublin City University**  
 📍 Dublin, Ireland  
@@ -6,7 +12,7 @@
 
 ---
 
-# 🛠 Skills
+# ⚡ 🛠 Skills
 
 ## 💻 Tech Stack
 
@@ -69,43 +75,42 @@
 
 ---
 
-# 📌 Highlights
+# 🚀 📌 Highlights
 
-- Built **CardioRisk ML pipeline** with automated preprocessing, model evaluation, and cross-validation.  
-- Developed **end-to-end machine learning workflows** using Jupyter, Scikit-Learn, and XGBoost.  
-- Created **interactive data visualizations and dashboards** using Power BI and Tableau.  
-- Experience with **data processing pipelines using Pandas and Spark**.  
-- Hands-on experience deploying **machine learning models and analytics solutions**.  
-- Continuously improving skills through certifications and real-world analytics projects.  
-
----
-
-# 🔍 Featured Projects
-
-### [CardioRisk_ML-Durga](https://github.com/D-Durga1728/CardioRisk_ML-Durga)
-Predicting cardiovascular risk using machine learning with preprocessing, feature engineering, model training, and evaluation.
-
-### [Wine Quality Prediction](https://github.com/D-Durga1728/wine-quality-prediction-r)
-Exploratory data analysis and predictive modeling using R.
-
-### [Flight Price Visualisation](https://github.com/D-Durga1728/flight-price-visualisation)
-Interactive Jupyter Notebook project visualizing flight price trends.
+- 🔹 Built **CardioRisk ML pipeline** with automated preprocessing, model evaluation, and cross-validation  
+- 🔹 Developed **end-to-end ML workflows** using Jupyter, Scikit-Learn, and XGBoost  
+- 🔹 Created **interactive dashboards** using Power BI and Tableau  
+- 🔹 Experience with **data processing pipelines using Pandas and Spark**  
+- 🔹 Hands-on experience deploying **ML models and analytics solutions**  
+- 🔹 Continuously improving skills via certifications and real-world projects  
 
 ---
 
-# 🐍 GitHub Contribution Snake
+# 🌟 🔍 Featured Projects
 
-![Snake animation](output/github-contribution-grid-snake.svg)
+<div align="center">
 
-> ⚠️ Make sure your GitHub Actions workflow generates `output/github-contribution-grid-snake.svg` automatically.
+<a href="https://github.com/D-Durga1728/CardioRisk_ML-Durga">
+<img src="https://raw.githubusercontent.com/D-Durga1728/CardioRisk_ML-Durga/main/screenshots/cardiovasc_demo.gif" alt="CardioRisk ML" width="300"/>
+</a>
+
+<a href="https://github.com/D-Durga1728/wine-quality-prediction-r">
+<img src="https://raw.githubusercontent.com/D-Durga1728/wine-quality-prediction-r/main/screenshots/wine_demo.gif" alt="Wine Quality" width="300"/>
+</a>
+
+<a href="https://github.com/D-Durga1728/flight-price-visualisation">
+<img src="https://raw.githubusercontent.com/D-Durga1728/flight-price-visualisation/main/screenshots/flight_demo.gif" alt="Flight Prices" width="300"/>
+</a>
+
+</div>
 
 ---
 
 # 📜 Certifications
 
-- IBM Data Analytics Professional Certificate  
-- Power BI Data Analyst Associate  
-- Tableau Desktop Specialist  
+- [IBM Data Analytics Professional Certificate](https://www.credly.com/badges/your_ibm_certificate_link)  
+- [Power BI Data Analyst Associate](https://www.credly.com/badges/your_powerbi_certificate_link)  
+- [Tableau Desktop Specialist](https://www.credly.com/badges/your_tableau_certificate_link)  
 
 ---
 

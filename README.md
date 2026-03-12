@@ -20,14 +20,6 @@
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
 </a>
 
-<a href="https://www.javascript.com/">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</a>
-
-<a href="https://www.java.com/">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-</a>
-
 <a href="https://scikit-learn.org/">
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 </a>
@@ -64,36 +56,8 @@
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 </a>
 
-<a href="https://aws.amazon.com/">
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-</a>
-
-<a href="https://azure.microsoft.com/">
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-</a>
-
-<a href="https://www.docker.com/">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-</a>
-
-<a href="https://react.dev/">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-</a>
-
-<a href="https://www.djangoproject.com/">
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-</a>
-
 <a href="https://www.mysql.com/">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</a>
-
-<a href="https://www.postgresql.org/">
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</a>
-
-<a href="https://www.mongodb.com/">
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </a>
 
 </div>
@@ -148,18 +112,10 @@ Interactive Jupyter Notebook project visualizing flight price trends.
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:durgaprasadnarsing1728@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
 </div>
 
----
-
-# 📫 Contact Me
-
-- **LinkedIn:** [Durga Prasad Narsing](https://www.linkedin.com/in/durga-prasad-narsing-155394281/)  
 - **Email:** [durgaprasadnarsing1728@gmail.com](mailto:durgaprasadnarsing1728@gmail.com)
+
 
 ---
 

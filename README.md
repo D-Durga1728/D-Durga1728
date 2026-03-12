@@ -2,7 +2,7 @@
 
 <div align="center">
   <h3>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&color=FF6F00&background=0D1117&center=true&vCenter=true&width=600&lines=Data+Analyst+%F0%9F%93%9A+%7C+Machine+Learning+%F0%9F%A4%96+%7C+Python+%F0%9F%90%8D"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&color=FF6F00&background=0D1117&center=true&vCenter=true&width=700&lines=Durga+Prasad+%F0%9F%91%8B+%7C+Data+Analyst+%F0%9F%93%9A+%7C+Machine+Learning+%F0%9F%A4%96+%7C+Python+%F0%9F%90%8D"/>
   </h3>
 </div>
 

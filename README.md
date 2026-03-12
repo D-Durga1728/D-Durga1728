@@ -12,6 +12,10 @@
 
 ---
 
+![Profile Views](https://komarev.com/ghpvc/?username=D-Durga1728&color=blue)
+
+---
+
 # ⚡ 🛠 Skills
 
 ## 💻 Tech Stack

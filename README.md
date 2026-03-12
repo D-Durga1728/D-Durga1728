@@ -1,8 +1,14 @@
 # Hi, I’m Durga Prasad 👋
 
-🎓 **Aspiring Data Analyst | MSc Data Analytics, Dublin City University**  
-📍 Dublin, Ireland  
+🎓 **Aspiring Data Analyst | MSc Data Analytics, Dublin City University**
+📍 Dublin, Ireland
 **Turning data into actionable insights through Python, SQL, and Machine Learning.**
+
+---
+
+## 👀 Profile Visitors
+
+![Visitor Count](https://komarev.com/ghpvc/?username=D-Durga1728\&label=Profile%20Views\&color=0e75b6\&style=for-the-badge)
 
 ---
 
@@ -64,43 +70,81 @@
 
 ---
 
+### Programming & Analytics
+
+Python • R • SQL • Power BI • Tableau
+
+### Machine Learning & AI
+
+Scikit-learn • TensorFlow • XGBoost • Pandas • NumPy
+
+### Data Visualization
+
+Matplotlib • Seaborn • Plotly • Tableau
+
+### Web & Deployment
+
+Django • Flask • Git • GitHub
+
+---
+
 # 📌 Highlights
 
-- Built **CardioRisk ML pipeline** with automated preprocessing, model evaluation, and cross-validation.
-- Developed **end-to-end machine learning workflows** using Jupyter, Scikit-Learn, and XGBoost.
-- Created **interactive data visualizations and dashboards** using Power BI and Tableau.
-- Experience with **data processing pipelines using Pandas and Spark**.
-- Hands-on experience deploying **machine learning models and analytics solutions**.
-- Continuously improving skills through certifications and real-world analytics projects.
+* Built **CardioRisk ML pipeline** with automated preprocessing, model evaluation, and cross-validation.
+* Developed **end-to-end machine learning workflows** using Jupyter, Scikit-Learn, and XGBoost.
+* Created **interactive dashboards and data visualizations** using Power BI and Tableau.
+* Experience building **data processing pipelines with Pandas and Apache Spark**.
+* Hands-on experience deploying **machine learning models and analytics solutions**.
+* Continuously improving skills through **certifications and real-world analytics projects**.
 
 ---
 
 # 🔍 Featured Projects
 
-### [CardioRisk_ML-Durga](https://github.com/D-Durga1728/CardioRisk_ML-Durga)
+### CardioRisk_ML-Durga
+
 Predicting cardiovascular risk using machine learning with preprocessing, feature engineering, model training, and evaluation.
+https://github.com/D-Durga1728/CardioRisk_ML-Durga
 
-### [Wine Quality Prediction](https://github.com/D-Durga1728/wine-quality-prediction-r)
+### Wine Quality Prediction
+
 Exploratory data analysis and predictive modeling using R.
+https://github.com/D-Durga1728/wine-quality-prediction-r
 
-### [Flight Price Visualisation](https://github.com/D-Durga1728/flight-price-visualisation)
+### Flight Price Visualisation
+
 Interactive Jupyter Notebook project visualizing flight price trends.
+https://github.com/D-Durga1728/flight-price-visualisation
 
 ---
 
 # 📜 Certifications
 
-- IBM Data Analytics Professional Certificate  
-- Power BI Data Analyst Associate  
-- Tableau Desktop Specialist  
+* IBM Data Analytics Professional Certificate
+* Power BI Data Analyst Associate
+* Tableau Desktop Specialist
 
 ---
 
 # 📊 GitHub Stats
 
-![Durga's GitHub Stats](https://github-readme-stats.vercel.app/api?username=D-Durga1728&show_icons=true&theme=radical&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=D-Durga1728&layout=compact&theme=radical)
+![Durga's GitHub Stats](https://github-readme-stats.vercel.app/api?username=D-Durga1728\&show_icons=true\&theme=radical\&count_private=true)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=D-Durga1728\&layout=compact\&theme=radical)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=D-Durga1728\&theme=radical)
+
+---
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/D-Durga1728/D-Durga1728/blob/output/github-contribution-grid-snake.svg)
+
+---
 
 # 📫 Connect With Me
 
@@ -112,19 +156,19 @@ Interactive Jupyter Notebook project visualizing flight price trends.
 
 </div>
 
-- **Email:** [durgaprasadnarsing1728@gmail.com](mailto:durgaprasadnarsing1728@gmail.com)
-
+📧 **Email:**
+[durgaprasadnarsing1728@gmail.com](mailto:durgaprasadnarsing1728@gmail.com)
 
 ---
 
 # 🌱 Currently Learning
 
-- Advanced Machine Learning Techniques (Deep Learning, NLP)  
-- Building interactive dashboards with Streamlit  
+* Advanced Machine Learning Techniques (Deep Learning, NLP)
+* Building interactive dashboards with Streamlit
 
 ---
 
-*“Data speaks — I make it understandable and useful.”*  
+*“Data speaks — I make it understandable and useful.”*
 *Transforming raw data into meaningful insights through analytics, machine learning, and continuous learning.*
 
 ---

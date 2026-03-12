@@ -1,8 +1,8 @@
 # Hi, I’m Durga Prasad 👋
 
-🎓  **Aspiring Data Analyst | MSc Data Analytics, Dublin City University**  
+🎓 **Aspiring Data Analyst | MSc Data Analytics, Dublin City University**  
 📍 Dublin, Ireland 
-Turning data into actionable insights through Python, SQL, and Machine Learning.
+- **Turning data into actionable insights through Python, SQL, and Machine Learning.**
 
 ---
 

@@ -81,12 +81,12 @@
 
 # 🚀 📌 Highlights
 
-- 🔹 Built **CardioRisk ML pipeline** with automated preprocessing, model evaluation, and cross-validation  
-- 🔹 Developed **end-to-end ML workflows** using Jupyter, Scikit-Learn, and XGBoost  
-- 🔹 Created **interactive dashboards** using Power BI and Tableau  
-- 🔹 Experience with **data processing pipelines using Pandas and Spark**  
-- 🔹 Hands-on experience deploying **ML models and analytics solutions**  
-- 🔹 Continuously improving skills via certifications and real-world projects  
+-  Built **CardioRisk ML pipeline** with automated preprocessing, model evaluation, and cross-validation  
+-  Developed **end-to-end ML workflows** using Jupyter, Scikit-Learn, and XGBoost  
+-  Created **interactive dashboards** using Power BI and Tableau  
+-  Experience with **data processing pipelines using Pandas and Spark**  
+-  Hands-on experience deploying **ML models and analytics solutions**  
+-  Continuously improving skills via certifications and real-world projects  
 
 ---
 

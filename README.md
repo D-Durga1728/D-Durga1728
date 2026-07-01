@@ -1,140 +1,89 @@
-# <img src="https://img.shields.io/badge/Hi-👋-brightgreen?style=flat-square" /> I'm Durga Prasad  
+# Hi 👋, I'm Durga Prasad Narsing
 
-<div align="center">
-  <h3>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&color=FF6F00&background=0D1117&center=true&vCenter=true&width=700&lines=Durga+Prasad+%F0%9F%91%8B+%7C+Data+Analyst+%F0%9F%93%9A+%7C+Machine+Learning+%F0%9F%A4%96+%7C+Python+%F0%9F%90%8D"/>
-  </h3>
-</div>
+**Aspiring Data Analyst | MSc Data Analytics, Dublin City University**
+📍 Dublin, Ireland | Eligible to Work in Ireland
+Turning data into actionable insights through Python, SQL, and Machine Learning.
 
-🎓 **Aspiring Data Analyst | MSc Data Analytics, Dublin City University**  
-📍 Dublin, Ireland  
-**Turning data into actionable insights through Python, SQL, and Machine Learning.**
+[![Profile Views](https://komarev.com/ghpvc/?username=D-Durga1728&color=blue)](https://github.com/D-Durga1728)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/durga-prasad-narsing-155394281/)
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=D-Durga1728&color=blue)
+## 🛠 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-AA0000?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+
+- **Programming & Analytics:** Python (Pandas, NumPy, scikit-learn, XGBoost, Plotly), R, SQL, PostgreSQL
+- **BI & Visualisation:** Tableau, Power BI, Plotly (animated/interactive), Excel (Advanced)
+- **ML & Stats:** Classification, regression, Random Forest, XGBoost, cross-validation, hypothesis testing, A/B testing, feature engineering, calibration, fairness auditing
+- **Web & Deployment:** Django, Flask, Streamlit, Git, GitHub
+- **Currently exploring:** React, MCP (Model Context Protocol) & agentic AI workflows, TensorFlow
 
 ---
 
-# ⚡ 🛠 Skills
+## 🌟 Featured Projects
 
-## 💻 Tech Stack
+### [Long COVID / COVID-19 Mortality Risk Prediction](https://github.com/D-Durga1728/longcovid-risk-app)
+*Solo — MSc Practicum, DCU*
+A 220,218-case clinical dataset had no Long COVID follow-up labels, so I reframed the target as an honest mortality proxy instead of overclaiming. Benchmarked a calibrated Logistic Regression (AUC 0.888) against Random Forest, Gradient Boosting, XGBoost, and Stacking — DeLong testing showed none beat it, so I deployed the interpretable model. Added fairness auditing (cut TPR disparity from 0.60 to 0.045) and a live Streamlit risk calculator.
 
-<div align="center">
+### [Weather-Driven Modelling of Irish Electricity Demand & Prices](https://github.com/D-Durga1728/ireland-electricity-weather)
+*Team Project, 4 members (modelling & reporting role) — DCU CA683 Data Mining*
+Merged 3 open Irish datasets (24 weather stations, EirGrid grid data, SEM prices) into one hourly series to predict electricity demand and cost. Random Forest hit R² 0.975 on demand and R² 0.972 on price (MAE 6.13 EUR/MWhe), confirmed with 5-fold cross-validation.
 
-<a href="https://www.python.org/">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</a>
+### [Flight Price Evolution Analysis](https://github.com/D-Durga1728/flight-price-visualisation)
+*Solo — DCU CSC1143 Data Visualisation*
+An 82-million-row, 31 GB dataset crashed every local load attempt. Rebuilt the ingestion with chunk-based Pandas processing into a working 3,569,724-row set, then engineered a `daysBeforeFlight` feature and shipped an animated Plotly dashboard — cutting insight delivery from hours of manual work to under 5 minutes.
 
-<a href="https://www.r-project.org/">
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-</a>
+### [CardioRisk — Cardiovascular Disease Prediction](https://github.com/D-Durga1728/CardioRisk_ML-Durga-)
+*Team Project, 4 members (statistical analysis & reporting role) — DCU CSC1181*
+Contributed statistical analysis, ethical/legal write-up, and final report compilation on a 70,000-patient dataset. The team's XGBoost model (built by a teammate) reached 72.93% accuracy with 5-fold stratified cross-validation.
 
-<a href="https://scikit-learn.org/">
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-</a>
-
-<a href="https://www.tensorflow.org/">
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-</a>
-
-<a href="https://xgboost.ai/">
-<img src="https://img.shields.io/badge/XGBoost-AA0000?style=for-the-badge"/>
-</a>
-
-<a href="https://opencv.org/">
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-</a>
-
-<a href="https://pandas.pydata.org/">
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-</a>
-
-<a href="https://numpy.org/">
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-</a>
-
-<a href="https://spark.apache.org/">
-<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
-</a>
-
-<a href="https://powerbi.microsoft.com/">
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-</a>
-
-<a href="https://www.tableau.com/">
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-</a>
-
-<a href="https://www.mysql.com/">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</a>
-
-</div>
-
-- **Programming & Analytics:** [Python](https://www.python.org/), [R](https://www.r-project.org/), [SQL](https://www.w3schools.com/sql/), [Power BI](https://powerbi.microsoft.com/), [Tableau](https://www.tableau.com/)  
-- **Machine Learning & AI:** [Scikit-learn](https://scikit-learn.org/), [TensorFlow](https://www.tensorflow.org/), [XGBoost](https://xgboost.ai/), [Pandas](https://pandas.pydata.org/), [NumPy](https://numpy.org/)  
-- **Data Visualization:** [Matplotlib](https://matplotlib.org/), [Seaborn](https://seaborn.pydata.org/), [Plotly](https://plotly.com/), [Tableau](https://www.tableau.com/)  
-- **Web & Deployment:** [Django](https://www.djangoproject.com/), [Flask](https://flask.palletsprojects.com/), [Git](https://git-scm.com/), [GitHub](https://github.com/)  
+### [Wine Quality Prediction System](https://github.com/D-Durga1728/wine-quality-prediction-r)
+*Solo — Anurag University*
+Full solo pipeline in R — cleaning, EDA, feature selection, Random Forest training, cross-validation — deployed as a live tcltk GUI where users input attributes and get an instant quality prediction.
 
 ---
 
-# 🚀 📌 Highlights
+## 📜 Certifications
 
--  Built **CardioRisk ML pipeline** with automated preprocessing, model evaluation, and cross-validation  
--  Developed **end-to-end ML workflows** using Jupyter, Scikit-Learn, and XGBoost  
--  Created **interactive dashboards** using Power BI and Tableau  
--  Experience with **data processing pipelines using Pandas and Spark**  
--  Hands-on experience deploying **ML models and analytics solutions**  
--  Continuously improving skills via certifications and real-world projects  
-
----
-
-# 🌟 🔍 Featured Projects
-
-### [CardioRisk_ML-Durga](https://github.com/D-Durga1728/CardioRisk_ML-Durga)  
-📊 Predicting cardiovascular risk using machine learning with preprocessing, feature engineering, model training, and evaluation.
-
-### [Wine Quality Prediction](https://github.com/D-Durga1728/wine-quality-prediction-r)  
-🍷 Exploratory data analysis and predictive modeling using R. Built classification models to assess wine quality.
-
-### [Flight Price Visualisation](https://github.com/D-Durga1728/flight-price-visualisation)  
-✈️ Interactive Jupyter Notebook project visualizing flight price trends and patterns using Python.
+- BCG X Data Science Job Simulation — Forage
+- Deloitte Data Analytics Job Simulation — Forage
+- Database and SQL — Infosys
+- Data Visualisation with Tableau — Infosys
+- Big Data and Hadoop — Infosys
+- Deep Learning — Scaler
+- Microsoft Excel — LinkedIn Learning
 
 ---
 
-# 📜 Certifications
+## 📊 GitHub Stats
 
-- [IBM Data Analytics Professional Certificate](https://www.credly.com/badges/your_ibm_certificate_link)  
-- [Power BI Data Analyst Associate](https://www.credly.com/badges/your_powerbi_certificate_link)  
-- [Tableau Desktop Specialist](https://www.credly.com/badges/your_tableau_certificate_link)  
-
----
-
-# 📊 GitHub Stats
-
-![Durga's GitHub Stats](https://github-readme-stats.vercel.app/api?username=D-Durga1728&show_icons=true&theme=radical&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=D-Durga1728&layout=compact&theme=radical)
+[![Durga's GitHub Stats](https://github-readme-stats.vercel.app/api?username=D-Durga1728&show_icons=true&theme=radical&count_private=true)](https://github.com/D-Durga1728)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=D-Durga1728&layout=compact&theme=radical)](https://github.com/D-Durga1728)
 
 ---
 
-# 📫 Connect With Me
+## 🌱 Currently Learning
 
-<div align="center">
-<a href="https://www.linkedin.com/in/durga-prasad-narsing-155394281/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-</div>
+- MCP (Model Context Protocol) and agentic AI tool integration
+- React for front-end prototyping
+- Cloud-based data pipelines (building on MSc coursework)
 
-- **Email:** [durgaprasadnarsing1728@gmail.com](mailto:durgaprasadnarsing1728@gmail.com)
+## 📫 Connect
 
----
-# 🌱 Currently Learning
-
-- Advanced Machine Learning Techniques (Deep Learning, NLP)  
-- Building interactive dashboards with Streamlit  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/durga-prasad-narsing-155394281/)
+**Email:** durgaprasadnarsing1728@gmail.com
 
 ---
 
-*“Data speaks — I make it understandable and useful.”*  
-*Transforming raw data into meaningful insights through analytics, machine learning, and continuous learning.*
+*Data speaks — I make it understandable and useful.*
